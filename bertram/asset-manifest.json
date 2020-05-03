@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bertram/static/css/main.3efd5b4d.chunk.css",
+    "main.js": "/bertram/static/js/main.93cd5493.chunk.js",
+    "main.js.map": "/bertram/static/js/main.93cd5493.chunk.js.map",
+    "runtime-main.js": "/bertram/static/js/runtime-main.b27e7845.js",
+    "runtime-main.js.map": "/bertram/static/js/runtime-main.b27e7845.js.map",
+    "static/js/2.f0ea169e.chunk.js": "/bertram/static/js/2.f0ea169e.chunk.js",
+    "static/js/2.f0ea169e.chunk.js.map": "/bertram/static/js/2.f0ea169e.chunk.js.map",
+    "index.html": "/bertram/index.html",
+    "precache-manifest.0b5d08cb81fdde1edc759e38e14fa6af.js": "/bertram/precache-manifest.0b5d08cb81fdde1edc759e38e14fa6af.js",
+    "service-worker.js": "/bertram/service-worker.js",
+    "static/css/main.3efd5b4d.chunk.css.map": "/bertram/static/css/main.3efd5b4d.chunk.css.map",
+    "static/js/2.f0ea169e.chunk.js.LICENSE": "/bertram/static/js/2.f0ea169e.chunk.js.LICENSE",
+    "static/media/bgLarge.png": "/bertram/static/media/bgLarge.b85fcee3.png",
+    "static/media/cableC.jpg": "/bertram/static/media/cableC.c4f89f11.jpg",
+    "static/media/cableCS.jpg": "/bertram/static/media/cableCS.6aa29819.jpg",
+    "static/media/cableS.jpg": "/bertram/static/media/cableS.4ee11fbf.jpg",
+    "static/media/logo5.png": "/bertram/static/media/logo5.4a0dfe6b.png",
+    "static/media/logo5blue.png": "/bertram/static/media/logo5blue.cd802a31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27e7845.js",
+    "static/js/2.f0ea169e.chunk.js",
+    "static/css/main.3efd5b4d.chunk.css",
+    "static/js/main.93cd5493.chunk.js"
+  ]
+}
