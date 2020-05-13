@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c1b1180.chunk.css",
+    "main.js": "/static/js/main.3da33e45.chunk.js",
+    "main.js.map": "/static/js/main.3da33e45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ee3dfab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ee3dfab.js.map",
+    "static/js/2.d094b857.chunk.js": "/static/js/2.d094b857.chunk.js",
+    "static/js/2.d094b857.chunk.js.map": "/static/js/2.d094b857.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6eff5d0bc0cbe00248c35898d4338510.js": "/precache-manifest.6eff5d0bc0cbe00248c35898d4338510.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8c1b1180.chunk.css.map": "/static/css/main.8c1b1180.chunk.css.map",
+    "static/js/2.d094b857.chunk.js.LICENSE": "/static/js/2.d094b857.chunk.js.LICENSE",
+    "static/media/Fidelity_bertram.pdf": "/static/media/Fidelity_bertram.fa2c88c9.pdf",
+    "static/media/Test-from-FIDELITY-34-Norway-Bertram-Cables.pdf": "/static/media/Test-from-FIDELITY-34-Norway-Bertram-Cables.fd07900c.pdf",
+    "static/media/Test-from-FIDELITY-Norway-Bertram-is-best.pdf": "/static/media/Test-from-FIDELITY-Norway-Bertram-is-best.2c5a95f9.pdf",
+    "static/media/bgLarge.png": "/static/media/bgLarge.b85fcee3.png",
+    "static/media/cableC.jpg": "/static/media/cableC.c4f89f11.jpg",
+    "static/media/cableCS.jpg": "/static/media/cableCS.6aa29819.jpg",
+    "static/media/comingsoon.png": "/static/media/comingsoon.f1b15a17.png",
+    "static/media/hifi4all.pdf": "/static/media/hifi4all.6c0ac707.pdf",
+    "static/media/logo5.png": "/static/media/logo5.4a0dfe6b.png",
+    "static/media/logo5blue.png": "/static/media/logo5blue.cd802a31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee3dfab.js",
+    "static/js/2.d094b857.chunk.js",
+    "static/css/main.8c1b1180.chunk.css",
+    "static/js/main.3da33e45.chunk.js"
+  ]
+}
