@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/new/static/css/main.8c1b1180.chunk.css",
+    "main.js": "/new/static/js/main.4a3e06d2.chunk.js",
+    "main.js.map": "/new/static/js/main.4a3e06d2.chunk.js.map",
+    "runtime-main.js": "/new/static/js/runtime-main.c4a46060.js",
+    "runtime-main.js.map": "/new/static/js/runtime-main.c4a46060.js.map",
+    "static/js/2.9b076428.chunk.js": "/new/static/js/2.9b076428.chunk.js",
+    "static/js/2.9b076428.chunk.js.map": "/new/static/js/2.9b076428.chunk.js.map",
+    "index.html": "/new/index.html",
+    "precache-manifest.e7a87f156a81c7139916ae5c106fe17e.js": "/new/precache-manifest.e7a87f156a81c7139916ae5c106fe17e.js",
+    "service-worker.js": "/new/service-worker.js",
+    "static/css/main.8c1b1180.chunk.css.map": "/new/static/css/main.8c1b1180.chunk.css.map",
+    "static/js/2.9b076428.chunk.js.LICENSE": "/new/static/js/2.9b076428.chunk.js.LICENSE",
+    "static/media/Fidelity_bertram.pdf": "/new/static/media/Fidelity_bertram.fa2c88c9.pdf",
+    "static/media/Test-from-FIDELITY-34-Norway-Bertram-Cables.pdf": "/new/static/media/Test-from-FIDELITY-34-Norway-Bertram-Cables.fd07900c.pdf",
+    "static/media/Test-from-FIDELITY-Norway-Bertram-is-best.pdf": "/new/static/media/Test-from-FIDELITY-Norway-Bertram-is-best.2c5a95f9.pdf",
+    "static/media/bgLarge.png": "/new/static/media/bgLarge.b85fcee3.png",
+    "static/media/comingsoon.png": "/new/static/media/comingsoon.f1b15a17.png",
+    "static/media/hifi4all.pdf": "/new/static/media/hifi4all.6c0ac707.pdf",
+    "static/media/logo5.png": "/new/static/media/logo5.4a0dfe6b.png",
+    "static/media/logo5blue.png": "/new/static/media/logo5blue.cd802a31.png",
+    "static/media/proxima-c-2.jpg": "/new/static/media/proxima-c-2.c4f89f11.jpg",
+    "static/media/proxima-c-main.jpg": "/new/static/media/proxima-c-main.1b2413aa.jpg",
+    "static/media/ultima-2.png": "/new/static/media/ultima-2.780bce8b.png",
+    "static/media/ultima-3.png": "/new/static/media/ultima-3.bfd4ccf9.png",
+    "static/media/ultima-main.png": "/new/static/media/ultima-main.f66cef7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a46060.js",
+    "static/js/2.9b076428.chunk.js",
+    "static/css/main.8c1b1180.chunk.css",
+    "static/js/main.4a3e06d2.chunk.js"
+  ]
+}
